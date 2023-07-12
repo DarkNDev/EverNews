@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/topNewsFragment"
+        android:title="Headlines"
+        android:icon="@drawable/newspaper"/>
+
+    <item
+        android:id="@+id/searchNewsFragment"
+        android:title="Search News"
+        android:icon="@drawable/search"/>
+
+    <item
+        android:id="@+id/bookmarkFragment"
+        android:title="Bookmarks"
+        android:icon="@drawable/bookmark"/>
+
+</menu>
