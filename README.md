@@ -27,4 +27,12 @@ https://github.com/DarkNDev/EverNews/assets/49820671/91693bb2-f29c-4dc0-b2ec-775
 
 
 ### Libraries Used
-Material 3, Navigation Component, Kotlin coroutines, Room Database, Lifecycle (ViewModel + LiveData), Dagger Hilt, Glide, Retrofit 2, Paging 3 with Remote Mediator.
+1. Material 3
+2. Navigation Component
+3. Kotlin coroutines
+4. Room Database
+5. Lifecycle (ViewModel + LiveData)
+6. Dagger Hilt
+7. Glide
+8. Retrofit 2
+9. Paging 3 with Remote Mediator
