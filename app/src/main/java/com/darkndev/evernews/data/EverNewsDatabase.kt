@@ -13,7 +13,8 @@ import com.darkndev.evernews.models.BookmarkedArticle
 
 @Database(
     entities = [Article::class, BookmarkedArticle::class, ArticleRemoteKey::class],
-    version = 1
+    version = 1,
+    exportSchema = false
 )
 @TypeConverters(Converters::class)
 abstract class EverNewsDatabase : RoomDatabase() {
